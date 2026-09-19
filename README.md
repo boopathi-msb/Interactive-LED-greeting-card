@@ -34,6 +34,6 @@ RESULT
 
 ## 
 
- **![][image2]**
+[image2]
 
-[image1]: RESULT.jpg
+[image1]:CIRCUIT.png
